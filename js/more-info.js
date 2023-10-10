@@ -45,7 +45,7 @@ window.addEventListener("load", function () {
                     </div>
                </div>
                <div class="flex-col hero-discription">
-                    <b>Discription:</b>
+                    <b>Description:</b>
                     <p>${
                       heroInfo.description != ""
                         ? heroInfo.description
